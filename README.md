@@ -1,6 +1,6 @@
 # sunmountain
 
-This project is for Sun Mountain Spa. The retreat center needed a way to sync they're reservations with Google Calendar because their current reservation platform was duplicating events when people changed their reservation.
+This project allows users to sync Retreat Guru with Google Calendar.
 
 ## Start the App
 
